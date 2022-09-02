@@ -1,0 +1,10 @@
+:root {
+    --light: #F8F9FA;
+    --dark: #212529;
+    --medium: #6C757D;
+  }
+  img{
+    border-radius: 50%;
+    height: 150px;
+    width: 250px;
+  }
